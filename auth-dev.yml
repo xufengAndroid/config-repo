@@ -1,4 +1,4 @@
-evn: dev1
+evn: dev2
 server:
   servlet:
     path: /auth
