@@ -1,0 +1,4 @@
+evn: dev6
+server:
+  servlet:
+    path: /auth
