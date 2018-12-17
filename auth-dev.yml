@@ -1,5 +1,2 @@
 evn: dev7
-server:
-  servlet:
-    path: /auth
 aaa: aaa
